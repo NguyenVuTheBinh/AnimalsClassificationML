@@ -1,0 +1,4 @@
+DBSCAN with eps=19, min_samples=8
+Number of clusters: 4
+Number of noise points: 74
+Silhouette Score: 0.7092

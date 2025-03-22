@@ -1,1 +1,1 @@
-new_image_path
+Folder

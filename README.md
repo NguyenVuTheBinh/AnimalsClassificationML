@@ -1,0 +1,3 @@
+- dataset is Animals-10 in Kaggle, choose 4 animals from 10 which are chicken, dog, horse and squirrel
+- mostly use the path D:\work\code\ML2Proj\...
+- first run tested with dog, got chicken
